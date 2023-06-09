@@ -67,7 +67,8 @@ The comments section of the Bike Gremlin post is worth reading. One reader sugge
 ### The Cheapskate's Guide
 
 * [**Microsoft De-indexed My Website from Bing but says It will re-index It Soon**](https://cheapskatesguide.org/articles/deindexed-by-bing.html) (November 18, 2021)
- This post inspired my first article on the subject of Bing de-indexing (see "Downstream Effect of Bing Bans" section). The Cheapskate's Guide is a minimalist site with original content. The post speculated that several articles not favorable to Microsoft caused the issue. It appears that the site was re-indexed but the issue was never identified.
+
+This post inspired my first article on the subject of Bing de-indexing (see "Downstream Effect of Bing Bans" section). The Cheapskate's Guide is a minimalist site with original content. The post speculated that several articles not favorable to Microsoft caused the issue. It appears that the site was re-indexed but the issue was never identified.
 
 ### Jeff Johnson
 
