@@ -54,7 +54,6 @@ According to the author, he saw movement toward a Bing revival within 48 hours o
 2. [Updates on my Bing Ban](https://daverupert.com/2023/01/updates-on-my-bing-ban/) (January 18, 2023)
 3. [My Bing Webmaster Guidelines Compliance Report](https://daverupert.com/2023/01/my-bing-webmaster-guidelines-compliance-report/) (January 19, 2023)
 4. [Solved the Case of the Bing Ban Theory](https://daverupert.com/2023/02/solved-the-case-of-the-bing-ban-theory) (February 2, 2023) [Note: Great title]
-
 These four articles go into great detail about the circumstances of his brief Bing ban and his efforts to resolve it. He also linked to several other independent ad-free tech writing blogs which suddenly had problems with Bing in January 2023. The author was advised by Bing that "[t]housands of small blogs were mistakenly marked as spam splogs," meaning that it sounds like Bing acknowledged that it had erred in this case. The author is more charitable to Bing than most of the accounts (including my own).
 
 ### Relja Novović of Bike Gremlin
