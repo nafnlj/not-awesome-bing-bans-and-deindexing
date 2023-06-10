@@ -1,6 +1,14 @@
 # Not-So-Awesome Bing Search Bans and De-Indexing
 A list of articles and resources about Bing Search blacklisting or de-indexing seemingly legitimate non-commercial blogs and websites.
 
+## Table of contents
+* [Introduction](#introduction)
+* [Bing Resources](#bing-resources)
+* [First-Hand Accounts](#first-hand-accounts)
+* [Downstream Effects of Bing Bans](#downstream-effects-of-bing-bans)
+* [Other Resources](#other-resources)
+* [Independent Search Engines](#independent-search-engines)
+
 ## Introduction
 
 Bing Search is the second most-used search engine in the world behind Google Search. While Google is the dominant search engine in almost every country in the world, Bing has added significance because a significant number of alternative search tools rely on Bing for indexing. Notable Bing-dependent search tools include DuckDuckGo, Qwant, Yahoo (and by extension MetaGer), and many more. For this reason, being a site  blocked by Bing from appearing in its search results or otherwise completely de-indexed may affect traffic beyond the direct loss of Bing referrals.
@@ -66,8 +74,7 @@ The comments section of the Bike Gremlin post is worth reading. One reader sugge
 
 ### The Cheapskate's Guide
 
-* [**Microsoft De-indexed My Website from Bing but says It will re-index It Soon**](https://cheapskatesguide.org/articles/deindexed-by-bing.html) (November 18, 2021)
-
+* [**Microsoft De-indexed My Website from Bing but says It will re-index It Soon**](https://cheapskatesguide.org/articles/deindexed-by-bing.html) (November 18, 2021)  
 This post inspired my first article on the subject of Bing de-indexing (see "Downstream Effect of Bing Bans" section). The Cheapskate's Guide is a minimalist site with original content. The post speculated that several articles not favorable to Microsoft caused the issue. It appears that the site was re-indexed but the issue was never identified.
 
 ### Jeff Johnson
@@ -131,7 +138,9 @@ Bing is important in large part because many alternatives to the Google-Bing duo
 * [A look at search engines with their own indexes](https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes/) (Last updated May 27, 2023) [Rohan Kumar]  
 A terrific list about genuinely independent search engines with their own indexes and algorithms. The author includes notes about these search engines.
 * [On whitelisting independent search crawlers](https://thenewleafjournal.com/whitelisting-independent-search-crawlers/) (April 6, 2023) [Me]  
-I wrote this article encouraging webmasters to ensure that they are not blocking well-behaved bots from independent search crawlers.
+I wrote this article encouraging webmasters to ensure that they are not blocking well-behaved bots from independent search crawlers. It was inspired by the next link
+* [Seznam SEO: An Interview with Seznam’s Search Division Director](https://www.searchenginejournal.com/seznam-interview/302851/) (April 17, 2019) [SEJ]  
+An interview with the Search division director of Seznam, an impressive and independent Czech search engine (it has solid English results). The Seznam CTO explained that many webmasters blocked SeznamBot.
 
 ### Tools and Resources
 
