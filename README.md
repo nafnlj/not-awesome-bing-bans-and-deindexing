@@ -21,7 +21,7 @@ I decided to create this repository to collect well-written accounts from around
 * While I think that I have collected examples of Bing acting arbitrarily, I cannot say with certainty that any or all of the affected sites were free of serious issues. This is even true of my own site. I think that Bing is in the wrong for several reasons, including the fact that I had no issue with Bing for three years and that I have no issue with Google, Brave, Yandex, or Mojeek (Bing is the only problem). However, for all I know, there is some issue that I and everyone except Bing is missing.
 * I put this list together as a resource for me and others.
 
-If you have a good account or resource to share, please consult my [contributing guidelines](https://github.com/nafnlj/Not-Awesome-Bing-Bans-and-De-Indexing/blob/main/contributing.md) and then make a pull request. (Have patience with me, however)
+If you have a good account or resource to share, please consult my [contributing guidelines](https://github.com/nafnlj/Not-Awesome-Bing-Bans-and-De-Indexing/blob/main/contributing.md) and then make a pull request.
 
 ## Bing resources
 
