@@ -107,7 +107,16 @@ A well-written piece detailing a 2019 incident. The author had an additional pro
 ### Nicolas Magand
 
 * [Something is rotten in the state of Bing search](https://thejollyteapot.com/2022/10/28/something-is-rotten-in-the-state-of-bing-search) (October 28, 2022)  
-The de-indexing story is not resolved in the post. Mr. Magand discussed some of the stories I linked to above and complained about Bing's lack of communication.
+The de-indexing story is not resolved in the post. Mr. Magand discussed some of the stories I linked to above and complained about Bing's lack of communication.  
+
+### Techdirt
+
+(Note: Techdirt is a bigger and more highly-trafficked site than those I have listed thus far. While it is not the sort of site that I am most interested in focusing on, its being blocked from appearing in Bing results has generated a good amount of discussion, so I will include the story here.)
+
+* [**Techdirt Has Been Deleted From Bing And DuckDuckGo**](https://www.techdirt.com/2023/07/27/techdirt-has-been-deleted-from-bing-and-duckduckgo/) (July 27, 2023)  
+Mr. Mike Masnick at Techdirt reported that Techdirt is no longer appearing in Bing and DuckDuckGo search results. The article is a bit vague and does not offer insight into whether Bing is blocking Techdirt links from appearing in its results or whether Techdirt has been de-indexed.  
+* [**Hacker News Discussion**](https://news.ycombinator.com/item?id=36898217) (July 27, 2023)  
+See Hacker News discussion on the Techdirt blacklisting/de-indexing. The thread includes comments from the CEO of DuckDuckGo which generally obfuscate DuckDuckGo's traditional search results (Bing-dependent) with its module results (variety of sources).
 
 ## Downstream effects of Bing bans
 
@@ -116,10 +125,12 @@ Prompted by the excellent post by Cheapskate's guide, I wrote about how being de
 * [The Downstream Effects of Bing's Tiananmen Square Censorship](https://thenewleafjournal.com/the-downstream-effects-of-bings-tiananmen-square-censorship/) (June 6, 2021) [written by me]  
 I discussed how Bing's decision to briefly block image results for certain queries pertaining to the 1989 Tiananmen Square protests and massacre filtered down to Bing-dependent search front-ends. I specifically looked at DuckDuckGo, Qwant, and Swisscows. I also showed that Google-dependent search front-ends, notably Startpage, were unaffected.
 
-### DuckDuckGo Tip
+### DuckDuckGo Tips
 
-* [Comments from Gabriel Weinberg of DuckDuckGo](https://news.ycombinator.com/item?id=32361648)  
-Mr. Gabriel Weinberg, the CEO of DuckDuckGo, suggested that webmasters blocked by Bing submit feedback through "Share Feedback" on a DuckDuckGo query where their site or articles are not being returned. However, I have not seen any examples of DuckDuckGo causing Bing to change a de-indexing decision.
+* [Comments from Gabriel Weinberg of DuckDuckGo on support requests](https://news.ycombinator.com/item?id=32361648)  
+Mr. Gabriel Weinberg, the CEO of DuckDuckGo, suggested that webmasters blocked by Bing submit feedback through "Share Feedback" on a DuckDuckGo query where their site or articles are not being returned. However, I have not seen any examples of DuckDuckGo causing Bing to change a de-indexing decision.  
+* [Gabriel Weinberg on Techdirt blocking](https://news.ycombinator.com/item?id=36898661)  
+Shortly after news that Bing blocked (or de-indexed) Techdirt on July 27, 2023, the CEO of DuckDuckGo chimed into a Hacker News thread with news that DuckDuckGo had placed a link to Techdirt's homepage above DuckDuckGo results for certain techdirt queries. You can see the archived version [here](https://web.archive.org/web/20230727211713/http://web.archive.org/screenshot/https://duckduckgo.com/?q=techdirt&ia=web). However, DuckDuckGo has not restored Techdirt results, which suggests that it is limited in what it can do with respect to Bing taking action against a domain. The lesson here appears to be that DuckDuckGo may undertake limited actions on behalf of highly-trafficked sites with Bing problems.
 
 ## Other resources
 
