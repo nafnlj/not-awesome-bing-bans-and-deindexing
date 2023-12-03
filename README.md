@@ -109,7 +109,12 @@ A well-written piece detailing a 2019 incident. The author had an additional pro
 ### Nicolas Magand
 
 * [Something is rotten in the state of Bing search](https://thejollyteapot.com/2022/10/28/something-is-rotten-in-the-state-of-bing-search) (October 28, 2022)  
-The de-indexing story is not resolved in the post. Mr. Magand discussed some of the stories I linked to above and complained about Bing's lack of communication.  
+The de-indexing story is not resolved in the post. Mr. Magand discussed some of the stories I linked to above and complained about Bing's lack of communication.
+
+### Andrew Ward  
+  
+* [Bing (and DuckDuckGo shadow banned my website](https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing) (last updated April 26, 2023)  
+This is a developer's blog and portfolio site. It was de-indexed in June 2022. Made contact with Bing support within one month. The author speculated that the issue could have been re-uploaded content or minor coding issues, but it is all speculation. Fortunately, the site was re-indexed in early 2023 but Bing did not explain why it was removed in the first place.
 
 ### Techdirt
 
