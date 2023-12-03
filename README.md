@@ -113,7 +113,7 @@ The de-indexing story is not resolved in the post. Mr. Magand discussed some of 
 
 ### Andrew Ward  
   
-* [Bing (and DuckDuckGo shadow banned my website](https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing) (last updated April 26, 2023)  
+* [Bing (and DuckDuckGo) shadow banned my website](https://github.com/nafnlj/not-awesome-bing-bans-and-deindexing) (last updated April 26, 2023)  
 This is a developer's blog and portfolio site. It was de-indexed in June 2022. Made contact with Bing support within one month. The author speculated that the issue could have been re-uploaded content or minor coding issues, but it is all speculation. Fortunately, the site was re-indexed in early 2023 but Bing did not explain why it was removed in the first place.
 
 ### Techdirt
