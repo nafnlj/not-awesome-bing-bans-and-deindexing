@@ -159,7 +159,9 @@ A terrific list about genuinely independent search engines with their own indexe
 I wrote this article encouraging webmasters to ensure that they are not blocking well-behaved bots from independent search crawlers. It was inspired by the next link
 * [Seznam SEO: An Interview with Seznam’s Search Division Director](https://www.searchenginejournal.com/seznam-interview/302851/) (April 17, 2019) [SEJ]  
 An interview with the Search division director of Seznam, an impressive and independent Czech search engine (it has solid English results). The Seznam CTO explained that many webmasters blocked SeznamBot.
-
+* [Search Experiment Conclusion](https://yukinu.com/blog/2024/01/07/search-experiment-conclusion.html) (Jamiaru 7, 2024) [Yukinu]  
+Notes on going a week without using a generalist search engine.  
+  
 ### Tools and Resources
 
 * [Wutsearch](https://wutsearch.com/) [Jeff Starr]  
@@ -169,6 +171,7 @@ A search engine launchpad. It includes several niche independent search engines.
 
 * [Brave Search](https://brave.com/)
 * [Mojeek](https://www.mojeek.com/)
+* [Stract](https://stract.com/) (see also [source code](https://github.com/StractOrg/stract))
 * [Right Dao](https://rightdao.com/)
-* [Infotiger](https://infotiger.com/) (also accessible through MetaGer)
+* [Infotiger](https://infotiger.com/)
 * [Marginalia Search](https://search.marginalia.nu/) (small web search engine with a terrific index)
